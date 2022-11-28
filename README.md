@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vahid Rafiei (Github: @vahidR)
+- 👋 Hi, I’m Vahid Rafiei (Github: @vahidR | Twitter: @vahid_r)
 - 👀 I’m interested in Java, Hacking, and Swimming.
 - 🌱 I’m currently focused on DevSecOps.
 - 💞️ I’m looking to collaborate with like-minded people.
