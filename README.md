@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Vahid Rafiei (Github: @vahidR | Twitter: @vahid_r)
 - 👀 I’m a Senior Sofware Engineer, living in Stockholm, Sweden.
-- 🌱 I'm mostly obsessed with Cloud-Native Architecture, Service Mesh, and API Security.
+- 🌱 I'm mostly obsessed with Distributed Systems, Kubernetes & API Security, and SRE.
 - 📫 You can reach me via the different mediums which can be found on my website: https://vahid-r.com
 
 <!---
