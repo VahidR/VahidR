@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Vahid Rafiei (Github: @vahidR | Twitter: @vahid_r)
 - 👀 I’m a Senior Sofware Engineer, living in Stockholm, Sweden.
-- 🌱 I'm mostly obsessed with Distributed Systems, Kubernetes & API Security, and SRE.
+- 🌱 Mostly involved in Distributed Systems, Kubernetes & its security, and System Programming.
 - 📫 You can reach me via the different mediums which can be found on my website: https://vahid-r.com
 
 <!---
