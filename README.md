@@ -1,6 +1,8 @@
 - 👋 Hi, My name is Vahid Rafiei (Github: @VahidR | Twitter: @vahid_r)
 - 👀 I’m a Senior Sofware Engineer, living in Stockholm, Sweden.
-- 🌱 I Read and Write Code about Distributed Systems and Infrastructure.
+- 🌱 Reading and writing Code about Distributed Systems and DevSecOps.
+- 🌱 A Pilgrim of [Hackerdom](http://www.catb.org/~esr/writings/cathedral-bazaar/hacker-history/).
+- 🌱 Java, Clojure, Golang.
 - 📫 You can reach me via different mediums which can be found on my website: https://vahid-r.com
 
 <!---
