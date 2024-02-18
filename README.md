@@ -1,7 +1,6 @@
 - :octocat: Hi, My name is Vahid Rafiei (Github: @VahidR | Twitter: @vahid_r)
 - :octocat: A Senior Sofware Engineer, living in Stockholm, Sweden.
 - :octocat: Reading and Writing Code about Distributed Systems and DevSecOps.
-- :octocat: A Pilgrim of [Hackerdom](http://www.catb.org/~esr/writings/cathedral-bazaar/hacker-history/).
 - :octocat: My little corner of the Internet: https://vahid-r.com
 
 
