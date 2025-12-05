@@ -1,5 +1,4 @@
-- :octocat: Vahid Rafiei (Github: @VahidR | Twitter: @vahid_r)
-- :octocat: A programmer living in Stockholm, Sweden.
+- :octocat: Vahid Rafiei (Github: @VahidR | Twitter/X: @vahid_r)
 - :octocat: Mostly Distributed Systems and DevSecOps.
 - :octocat: https://vahid-r.com
 
