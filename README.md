@@ -1,5 +1,5 @@
 - :octocat: Vahid Rafiei (Github: @VahidR | Twitter/X: @vahid_r)
-- :octocat: Mostly Distributed Systems and DevSecOps.
+- :octocat: Mostly Distributed Systems and Performance Engineering.
 - :octocat: https://vahid-r.com
 
 
