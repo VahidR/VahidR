@@ -1,5 +1,5 @@
 - :octocat: Vahid Rafiei (Github: @VahidR | Twitter/X: @vahid_r)
-- :octocat: Mostly Distributed Systems and Performance Engineering.
+- :octocat: A Programmer turned into Defence Tech
 - :octocat: https://vahid-r.com
 
 
