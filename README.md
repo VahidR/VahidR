@@ -1,5 +1,4 @@
 - :octocat: Vahid Rafiei (Github: @VahidR | Twitter/X: @vahid_r)
-- :octocat: A Programmer turned into Defence Tech
 - :octocat: https://vahid-r.com
 
 
